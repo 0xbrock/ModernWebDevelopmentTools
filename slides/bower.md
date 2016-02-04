@@ -1,5 +1,5 @@
 ##  Bower
-![Bower](/resources/bower-logo.png)
+![Bower](resources/bower-logo.png)
 
 Package Manager for the Web
 

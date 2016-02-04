@@ -1,4 +1,4 @@
-##  ![JSPM](/resources/jspm.png)
+##  ![JSPM](resources/jspm.png)
 
 Used by Aurelia.  Designed around ES6,7 Web Components.
 
