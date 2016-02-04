@@ -1,4 +1,4 @@
-## ![Grunt](/resources/grunt-logo.png)
+## ![Grunt](resources/grunt-logo.png)
 
 Automates repetitive tasks like minification, compilation, unit testing, linting so you can do less work.
 

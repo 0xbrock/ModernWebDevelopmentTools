@@ -1,4 +1,4 @@
-## ![NodeJS](/resources/nodejs.png)
+## ![NodeJS](resources/nodejs.png)
 
 Javascript for the server.  Fast, scalable applications.
 

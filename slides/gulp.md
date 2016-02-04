@@ -1,4 +1,4 @@
-##  ![Gulp](/resources/gulp-logo.png)
+##  ![Gulp](resources/gulp-logo.png)
 
 Similar to Grunt, but has more functionality built in.  
 
